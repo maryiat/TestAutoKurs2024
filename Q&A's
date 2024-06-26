@@ -1,8 +1,10 @@
 Frågor, förväntningar, önskemål, åsikter om kommande testauto kurs får man gärna lämna här:
 1. Vad kommer man att använda för verktyg i kommande TA kurs?
 - Vi kommer att fokusera på Playwright (Python implementation).
+
 2. Hur kan man kontakta läraren i förväg?
 - Kontakta mig gärna via Linkedin: https://www.linkedin.com/in/maryia-tuleika/
+
 3. Hur ser kursschema ut?
 v34	Måndag	C208
 v34	Torsdag	Konfrum
@@ -20,5 +22,6 @@ v40	Tisdag	Distans
 v40	Fredag	Distans
 v41	Fredag	Teori på distans
 Övningar på EM i C305
+
 4. Vilket IDE ska användas?
 Kursinnehåll ska visas i VS Code (det här IDE är att föredra). 
